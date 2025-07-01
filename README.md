@@ -46,4 +46,4 @@ I customized everything to match my style and workflow.
 ```bash
 git clone https://github.com/your-username/your-dotfiles-repo.git
 cd your-dotfiles-repo
-# setup instructions go here
+```
